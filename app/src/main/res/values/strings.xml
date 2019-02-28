@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <string name="header_drawer">Milan - TourApp</string>
+    <string name="menu1">Explore</string>
+    <string name="menu2">Food</string>
+    <string name="menu3">Fun</string>
+    <string name="menu4">Sleep</string>
+
+    <!-- List of Explore Location -->
+    <string name="explore1_name">Duomo</string>
+    <string name="explore1_open">Monday - Sunday: 8:00 to 19:00</string>
+    <string name="explore1_address">Piazza Duomo</string>
+    <string name="explore1_telephone">02 72023375</string>
+    <string name="explore1_email">info@duomomilano.it​</string>
+    <string name="explore1_web">www.duomomilano.it</string>
+    <string name="explore1_description">A vision in pink Candoglia marble, 600 years in the making. Its pearly white facade, adorned with 135 spires and 3400 statues rises like the filigree of a fairy-tale tiara, wowing the crowds with its extravagant detail. The interior is no less impressive, punctuated by the largest stained-glass windows in Christendom, while in the crypt saintly Carlo Borromeo is interred in a rock-crystal casket. The most spectacular view is through the innumerable marble spires and pinnacles that adorn the rooftop. Crowning it all is a gilded copper statue of the Madonnina (Little Madonna), the city\'s traditional protector.</string>
+
+    <string name="explore2_name">Santa Maria presso San Satiro</string>
+    <string name="explore2_open">Tuesday - Saturday 9:30 to 17:30\nSundays: 14:00 to 17:30</string>
+    <string name="explore2_address">Via Torino, 17/19</string>
+    <string name="explore2_telephone">02 874683</string>
+    <string name="explore2_email">---</string>
+    <string name="explore2_web">---</string>
+    <string name="explore2_description">Ludovico Sforza saw potential in this little church built on top of the 9th-century mausoleum of martyr San Satiro, and asked architect Donato Bramante to refurbish it in 1482. His ambition wasn\'t dampened by the project\'s scale: a trompe l\'œil–coffered niche on the shallow apse makes the backdrop to the altar mimic the Pantheon in Rome. This church is a hidden jewel in via Torino, among the thousands of shops.</string>
+
+    <string name="explore3_name">Sant\'Ambrogio</string>
+    <string name="explore3_open">Monday - Saturday: 10:00 to 12:00 / 14:30 to 18:00\nSunday: 15:00 to 17:00</string>
+    <string name="explore3_address">Piazza Sant\'Ambrogio 15</string>
+    <string name="explore3_telephone">---</string>
+    <string name="explore3_email">---</string>
+    <string name="explore3_web">www.basilicasantambrogio.it/</string>
+    <string name="explore3_description">Milan\'s patron saint and one-time superstar bishop, is buried in the crypt of this red-brick cathedral, which he founded in AD 379. It\'s a fitting legacy, built and rebuilt with a purposeful simplicity that is truly uplifting: the seminal Lombard Romanesque basilica. Shimmering altar mosaics and a biographical golden altarpiece (835), which once served as the cladding for the saint\'s sarcophagus, light up the shadowy vaulted interior.</string>
+
+    <string name="explore4_name">Cenacolo</string>
+    <string name="explore4_open">Tuesday - Sunday: 8:15 to 19:00</string>
+    <string name="explore4_address">Piazza di Santa Maria delle Grazie 2</string>
+    <string name="explore4_telephone">02 92800360</string>
+    <string name="explore4_email">---</string>
+    <string name="explore4_web">www.cenacolo.it/</string>
+    <string name="explore4_description">be amazed by Milan\'s most famous mural, depicting Christ and his disciples at the dramatic moment when Christ reveals he\'s aware of his betrayal, it\'s a masterful psychological study and one of the world\'s most iconic images. To see it you must book in advance or sign up for a guided city tour.</string>
+
+    <string name="explore5_name">Biblioteca Ambrosiana</string>
+    <string name="explore5_open">Tuesday - Sunday: 10:00 to 18:00</string>
+    <string name="explore5_address">Piazza Pio XI 2</string>
+    <string name="explore5_telephone">02 806921</string>
+    <string name="explore5_email">---</string>
+    <string name="explore5_web">www.ambrosiana.eu/cms/</string>
+    <string name="explore5_description">Europe\'s first public library, built in 1609, the Biblioteca Ambrosiana was more a symbol of intellectual ferment than of quiet scholarship. It houses more than 75,000 volumes and 35,000 manuscripts including Leonardo da Vinci\'s priceless collection of drawings, the Atlantic Codex.</string>
+
+    <string name="explore6_name">Leonardo\'s vineyard</string>
+    <string name="explore6_open">Monday - Sunday: 9:00 to 18:00</string>
+    <string name="explore6_address">Corso Magenta 65</string>
+    <string name="explore6_telephone">02 4816150</string>
+    <string name="explore6_email">info@vignadileonardo.com</string>
+    <string name="explore6_web">www.vignadileonardo.com/</string>
+    <string name="explore6_description">Behind the 15th-century Casa degli Atellani, home of Renaissance courtiers dell\'Atella, lies one of the most interesting gardens in Milan. Located within them are the original vines of Leonardo da Vinci, who was gifted the land by Ludovico Sforza in return for his work on The Last Supper. Leonardo cherished the vineyard and the tour of the garden and palazzo, renovated by Piero Portaluppi in the early 20th-century, gives a unique insight into the deeply layered history of the city.</string>
+
+    <!-- List of Food Location -->
+    <string name="food1_name">Twist on classic</string>
+    <string name="food1_open">Monday - Friday: 18.00 to 2.00\nSaturday and Sunday: 15.00 to 2.00</string>
+    <string name="food1_address">Ripa di Porta Ticinese 13</string>
+    <string name="food1_telephone">02 39814083</string>
+    <string name="food1_email">drink@twistonclassic.com</string>
+    <string name="food1_web">www.twistonclassic.com</string>
+    <string name="food1_description">If you\'re searching for an awesome bar to drink classic cocktail with a twist, try this cozy living room.\nWe suggest:  “Mezcal Mule” with Mezcal, passion fruit, agave sirup, cucumber, lime and ginger beer.</string>
+
+    <string name="food2_name">Briscola Society</string>
+    <string name="food2_open">Monday - Sunday: 12:30 to 15:00 / 19:30 to 23:30</string>
+    <string name="food2_address">via Fogazzaro 9</string>
+    <string name="food2_telephone">02 5455496</string>
+    <string name="food2_email">-</string>
+    <string name="food2_web">www.briscolapizza.it</string>
+    <string name="food2_description">This pizzeria differs from the others because instead of 1 pizza, you can order 2 little ones, with premium ingredients.\nWe suggest: “Tropea” with tuna fillet, mozzarella, tomatoes and onions from Tropea and “Mortadella” with mortadella, mozzarella and pistachio cream.</string>
+
+    <string name="food3_name">Anche trattoria</string>
+    <string name="food3_open">Monday – Saturday: 12:00 to 14:30 / 19:30 to 23:30\nSunday: close</string>
+    <string name="food3_address">via Perugino 18</string>
+    <string name="food3_telephone">331 8224002</string>
+    <string name="food3_email">info@anche.it</string>
+    <string name="food3_web">www.anche.it</string>
+    <string name="food3_description">If you\'re in Milan you have to try the classic food: the cutlet.\nIn this restaurant they cook only cutlet and the menu includes starters, cutlet with tomatoes and dessert. </string>
+
+    <string name="food4_name">Cracco in Galleria</string>
+    <string name="food4_open">Monday - Saturday: 12:30 to 22:30\nSunday: close</string>
+    <string name="food4_address">Galleria Vittorio Emanuele II</string>
+    <string name="food4_telephone">02 876774</string>
+    <string name="food4_email">prenotazioni@ristorantecracco.it</string>
+    <string name="food4_web">www.ristorantecracco.it</string>
+    <string name="food4_description">A fancy restaurant from a 1 star Michelin chef in one of the most beautiful part of the city. For special occasions.</string>
+
+    <!-- List of Fun Location -->
+    <string name="fun1_name">Navigli</string>
+    <string name="fun1_open">---</string>
+    <string name="fun1_address">Navigli</string>
+    <string name="fun1_telephone">---</string>
+    <string name="fun1_email"> --- </string>
+    <string name="fun1_web">---</string>
+    <string name="fun1_description">Visit the tiniest bar in the world and have a drink at Backdoor\'s 43, in Ripa di Porta Ticinese. After that you can take a stroll in the Navigli area. Canals that were once the highway of Milan, used to transport timber, marble, oil and wine into town. Nowadays they\'re a conglomerate of bar where you can have a good happy hour and listen to music. From april to september there are also cruises to discover Leonardo daVinci\'s gate. Every last Sunday of the month there is a huge and folkroristic flea market.</string>
+
+    <string name="fun2_name">Highline Gallery</string>
+    <string name="fun2_open">Monday - Sunday: 10:00 to 21:00</string>
+    <string name="fun2_address">Via Silvio Pellico 2</string>
+    <string name="fun2_telephone">02 45397656</string>
+    <string name="fun2_email">galleria@milantourismpoint.com</string>
+    <string name="fun2_web">www.highlinegalleria.com</string>
+    <string name="fun2_description">Combine the pleasure of discovery with the pleasure of a good pizza. Visit Highline Gallery, a series of rooftop paths traversing the grand steel-and-glass structure of the Galleria Vittorio Emanuele II shopping arcade. The roof-line views of the arcade\'s cruciform shape and Liberty mosaics is stunning, as are the views of the Duomo, Teatro alla Scala and the Torre Velasca. At the end of your journey, try an awesome pizza at “Pizzeria 12 gatti”, with a direct view on Duomo and the Gallery. After, you can make some shopping in Corso Vittorio Emanuele or the famous via Montenapoleone, where are located all the main luxury lables. You can also have a look at the beautiful Teatro alla Scala, home of the classical music and opera.</string>
+
+    <string name="fun3_name">Corso Como</string>
+    <string name="fun3_open">---</string>
+    <string name="fun3_address">Corso Como</string>
+    <string name="fun3_telephone">---</string>
+    <string name="fun3_email">---</string>
+    <string name="fun3_web">---</string>
+    <string name="fun3_description">Dance all night at Loola Paloosa, one of the best nightclubs in Corso Como, one of the top locations to experience the city\'s nightlife. A beautiful pedestrian street, it\'s filled with restaurants, bars and clubs. This neighborhood is evolving at the speed of light and you\'ll be welcomed by the glass skyscrapers of Porta Nuova. Walk in the beautiful piazza Gae Aulenti and drink a spritz, while admiring the stunning Unicredit Building, currently the tallest in the city with a spire reaching 231 metres. A little statue of the Virgin Mary sits on top of the spire following the Milanese tradition that no building should ever be higher than the Madonnina a top the Duomo.</string>
+
+    <!-- List of Sleep Location -->
+    <string name="sleep1_name">Ostello Bello</string>
+    <string name="sleep1_open">---</string>
+    <string name="sleep1_address">Via Medici 4</string>
+    <string name="sleep1_telephone">02 36582720</string>
+    <string name="sleep1_email">booking@ostellobello.com</string>
+    <string name="sleep1_web">https://ostellobello.com/it/</string>
+    <string name="sleep1_description">a breath of fresh air in Milan\'s stiffly suited centre, this is the best hostel in town. Entrance is through its lively bar-cafe, open to nonguests, where you\'re welcomed with a smile and a complimentary drink. Beds are in mixed dorms or spotless private rooms, and there\'s a kitchen, a small terrace, and a basement lounge equipped with guitars, board games and table football. Weekly events, including jam sessions, cinema forums and a monthly vintage market, offer a great way to mingle with and meet locals. Prices include breakfast and dinner.</string>
+
+    <string name="sleep2_name">B&amp;b Secondo Pensiero</string>
+    <string name="sleep2_open">---</string>
+    <string name="sleep2_address">Corso Magenta 12</string>
+    <string name="sleep2_telephone">331 1715261</string>
+    <string name="sleep2_email">info@secondopensiero.com</string>
+    <string name="sleep2_web">www.secondopensiero.com/</string>
+    <string name="sleep2_description">Ideally located in central Milan, Secondo Pensiero is a B&amp;B offering en suite rooms with parquet floors and free Wi-Fi. You can walk to the Sforzesco Castle and lush Sempione Park in 5 minutes. Housed on the first floor and second floor of a 19th-century building, the B&amp;B features a large living room and a breakfast hall. Breakfast consists of sweet and savoury food, such as coffee, yoghurt, cheese and pastries. The property is just 350 metres from Cairoli Metro Station, offering direct links to Milan Cathedral and Milano Centrale Train Station.</string>
+
+    <string name="sleep3_name">The Westin Palace</string>
+    <string name="sleep3_open">---</string>
+    <string name="sleep3_address">Piazza della Repubblica 20</string>
+    <string name="sleep3_telephone">02 63361</string>
+    <string name="sleep3_email">palacemilan@westin.com</string>
+    <string name="sleep3_web">www.westinpalacemilan.it/</string>
+    <string name="sleep3_description">The Westin Palace is an impressive building in Milan, 50 metres from Repubblica Metro Station. Rooms are decorated in Neoclassical style and feature an LCD TV. WiFi is free throughout. The Palace boasts a red marble façade and a rooftop terrace with city views. The hotel is complete with a wellness centre and the Westin Workout gym. The design rooms have pastel-coloured walls and precious antiques. Each room features the brand\'s Heavenly Bed and Heavenly Bath.</string>
+
+</resources>
